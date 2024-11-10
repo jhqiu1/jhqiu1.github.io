@@ -40,6 +40,7 @@ I am currently interested in Intelligent Manufacturing Systems, Scheduling & Sim
 Patent
 1. **Junhao Qiu**, Jianjun Liu, et al. A Label Classification based Matching Algorithm for Campus Faculty and Student Project Matching. CN Patent: 202110520953.0, 2023. 
 2. **Junhao Qiu**, Ziyang chen, et al. A Ceramic Blockchain Tracking Method Combined with Graph Convolution. CN Patent: 202110397225.5, 2023.
+
 Software Copyright
 1. Software for Intelligent Bidding for Scientific Research, NO. 2021SR0977527.
 2. App for Customized Equipment Aftermarket Repairers, NO. 2021SR1098439.
