@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, I am Junhao Qiu, a M.S. student supervised by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm), School of Electromechanical Engineering, Guangdong University of Technology.
 
-I am currently interested in Intelligent Manufacturing Systems, Scheduling & Simulation Optimization and Artificial Intelligence.
+I am currently interested in Intelligent Manufacturing Systems, Scheduling & Simulation Optimization and Artificial Intelligence. And i'm currently in the process of applying for a PhD.
 
 # Educations
 - *2012.09 - 2024.11 (now)*, Master, Guangdong University of Technology
