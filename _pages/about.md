@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About me -Junhao Qiu"
+title: "Junhao Qiu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 # About Me
 
 Hello, I am Junhao Qiu, a M.S. student supervised by Prof. [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm), School of Electromechanical Engineering, Guangdong University of Technology.
