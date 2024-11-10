@@ -28,7 +28,7 @@ I am currently interested in Intelligent Manufacturing Systems, Scheduling & Sim
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
 # Academic Service
-- Reviewers for journals International Journal of Production Research, The Journal of Supercomputing, C
+- Reviewers for journals International Journal of Production Research, The Journal of Supercomputing, and so on.
 
 
 # Paper List
@@ -40,7 +40,6 @@ I am currently interested in Intelligent Manufacturing Systems, Scheduling & Sim
 Patent
 1. **Junhao Qiu**, Jianjun Liu, et al. A Label Classification based Matching Algorithm for Campus Faculty and Student Project Matching. CN Patent: 202110520953.0, 2023. 
 2. **Junhao Qiu**, Ziyang chen, et al. A Ceramic Blockchain Tracking Method Combined with Graph Convolution. CN Patent: 202110397225.5, 2023.
- 
 Software Copyright
 1. Software for Intelligent Bidding for Scientific Research, 2022, NO. 2021SR0977527.
 2. App for Customized Equipment Aftermarket Repairers, 2022, NO. 2021SR1098439.
