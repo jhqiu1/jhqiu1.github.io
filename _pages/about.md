@@ -30,7 +30,7 @@ And i'm currently in the process of applying for a PhD.
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
 # Academic Service
-- Reviewers for International Journal of Production Research, The Journal of Supercomputing, and so on.
+- Reviewers for *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
 
 
 # Paper List
@@ -53,10 +53,11 @@ Software Copyright
 
 # Competitions & Projects
 Competitions
-1. National: Second Prize of "Huawei Cup" Graduate Student Mathematical Modeling Competition, 2023.
-2. Provincial: Second Prize of Guangdong Province "Internet+" Innovation and Entrepreneurship Competition, 2023.
-3. Provincial: First and Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2022-2023.
-4. Provincial: First and Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2022-2023.
+1. **National**: Second Prize of "Huawei Cup" Graduate Student Mathematical Modeling Competition, 2023.
+2. **Provincial**: Second Prize of Guangdong Province "Internet+" Innovation and Entrepreneurship Competition, 2023.
+3. **Provincial**: First and Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2023.
+4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2022.
+4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2021.
 
 Projects
 1. Head of National Student Innovation and Entrepreneurship Program, 2021
