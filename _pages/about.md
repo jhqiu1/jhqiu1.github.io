@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Qiu Junhao, a master's student from the School of Electromechanical Engineering of Guangdong University of Technology, **recommended for exemption from examination** and supervised by by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm)
+Hello, I am Qiu Junhao, a master's student from the School of Electromechanical Engineering of Guangdong University of Technology, **recommended for exemption from examination** and supervised by by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm).
 
 I am currently interested in Intelligent Manufacturing Systems, Scheduling & Simulation Optimization and Artificial Intelligence. 
 
