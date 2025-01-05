@@ -20,17 +20,27 @@ And i'm currently in the process of applying for a PhD.
 - *2012.09 - 2024.11 (now)*, Master, Guangdong University of Technology
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
-# Honors & Awards
-- *National Scholarship, 2024*
+# 🔥 News
+- *2024.12*: &nbsp;:clap::clap: Attended The 2nd Human Centered Intelligence Academic Conference and received “Outstanding Poster Nomination Award” ! 
+- *2024.08*: &nbsp;:clap::clap: “A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling” has been accepted at JMS ! 
+- *2024.07*: &nbsp;:clap::clap: Attended “The 7th Academic Conference on Big Data-Driven Smart Manufacturing” and received “Outstanding Paper Abstract Award” ! 
+- *2024.02*: &nbsp;:clap::clap: “A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time” has been accepted at CAIE ! 
+- *2023.12*: &nbsp;:clap::clap: “Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements” has been accepted at Journal of Mechanical Engineering(机械工程学报)! 
+
+# Scholarship
+Accumulated 14 scholarships
+- *National Scholarship $20K, 2024*
 - *Corporate First Class Scholarship $20K, ADA, 2023*
-- *National Scholarship, 2023*
+- *National Scholarship $20K, 2023*
 - *Top Student Scholarships $20K, GDUT, 2022-2024*
-- *First-Class Scholarship for Graduate Students, GDUT, 2022-2024*
-- *First-Class Scholarship for Undergraduate Students, GDUT, 2023*
+- *First-Class Scholarship for Undergraduate Students $10K, GDUT, 2023*
+- *First-Class Scholarship for Graduate Students, GDUT, 2022*
+
+# Honor
+- *Outstanding Graduate of Guangdong University of Technology, 2022*
+- *Top 10 Outstanding Graduates of the College, 2022*
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
-# Academic Service
-- Reviewers for *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
 
 
 # Paper List
@@ -60,6 +70,14 @@ Competitions
 4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2021.
 
 Projects
-1. Head of National Student Innovation and Entrepreneurship Program, 2021
-1. Head of Provincial Student Innovation and Entrepreneurship Program, 2020
+1. National Student Innovation and Entrepreneurship Program, 2021
+2. Provincial Student Innovation and Entrepreneurship Program, 2020
+   
+# Academic Service
+- Reviewers for *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
+
+# Academic conferences
+1.2024 The 2nd Human Centered Intelligence Academic Conference, 202412, CSU, Outstanding Poster Nomination Award
+2.The 7th Academic Conference on Big Data-Driven Smart Manufacturing, 202407, DLUT, Outstanding Paper Abstract Award
+3.Chinese Scholars International Annual Conference on Industrial Engineering(CSIE2023), 202308, HKUST, Outstanding Paper Award
 
