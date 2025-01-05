@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Junhao Qiu:
+  name        : "Junhao Qiu"
+  uri         : "https://jhqiu1.github.io"
+  email       : "junhaoqiu2-c@my.cityu.edu.hk"
+  bio         : "Ph.D. Student, Department of Computer Science, City University of Hong Kong"
+  avatar      : "perisonal-iamge.png"
+  googlescholar: "https://scholar.google.com/citations?user=P6z76UIAAAAJ"
+  orcid       : "https://orcid.org/0000-0002-4401-9841"
+  researchgate: "https://www.researchgate.net/profile/Junhao-Qiu-2"

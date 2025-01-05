@@ -47,16 +47,19 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation %}
+        {% if page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% endif %}
+
+        {% if page.paperurl or page.slidesurl or page.codeurl %}
+          <p style="font-size: smaller">
+            {% if page.paperurl %}<a href="{{ page.paperurl }}"><i class="fas fa-file-pdf"></i> Paper</a>{% endif %}
+            {% if page.paperurl and page.slidesurl %} | {% endif %}
+            {% if page.slidesurl %}<a href="{{ page.slidesurl }}"><i class="fas fa-file-powerpoint"></i> Slides</a>{% endif %}
+            {% if page.paperurl and page.codeurl and page.slidesurl == nil %} | {% endif %}
+            {% if page.slidesurl and page.codeurl %} | {% endif %}
+            {% if page.codeurl %}<a href="{{ page.codeurl }}"><i class="fas fa-code"></i> Code</a>{% endif %}
+          </p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

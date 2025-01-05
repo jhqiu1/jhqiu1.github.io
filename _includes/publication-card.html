@@ -1,0 +1,36 @@
+{% if include.teaser_img and include.teaser_img != "" %}
+  {% assign teaser = include.teaser_img %}
+{% else %}
+  {% assign teaser = nil %}
+{% endif %}
+
+<div class="publication-card">
+  <article class="publication-card__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div class="publication-card__teaser">
+      {% if teaser %}
+        <img src="{{ teaser | prepend: "/images/" | prepend: include.base_path }}" alt="" loading="lazy">
+      {% endif %}
+    </div>
+
+    <div class="publication-card__body">
+      <h3 class="publication-card__title" itemprop="headline">
+        <a href="{{ include.url | prepend: include.base_path }}" rel="permalink">{{ include.title }}</a>
+      </h3>
+
+      {% if include.venue and include.venue != "" %}
+        <p class="publication-card__venue"><i>{{ include.venue }}</i></p>
+      {% endif %}
+
+      <div class="publication-card__actions">
+        {% if include.paperurl and include.paperurl != "" %}
+          <a href="{{ include.paperurl }}" class="btn btn--small btn--primary" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+        {% endif %}
+        {% if include.codeurl and include.codeurl != "" %}
+          <a href="{{ include.codeurl }}" class="btn btn--small btn--primary" target="_blank" rel="noopener"><i class="fas fa-code"></i> Code</a>
+        {% endif %}
+      </div>
+    </div>
+
+  </article>
+</div>

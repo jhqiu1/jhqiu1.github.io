@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Junhao Qiu"
 title_separator          : "-"
 name                     : &name "Junhao Qiu"
-description              : &description "personal description"
+description              : &description "Ph.D. Student, Department of Computer Science, City University of Hong Kong"
 url                      : "https://jhqiu1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhqiu1/jhqiu1.github.io"
@@ -21,14 +21,14 @@ repository               : "jhqiu1/jhqiu1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "perisonal-iamge" #"bio-photo2.png"
+  avatar           : "perisonal-iamge.png" #"bio-photo2.png"
   name             : "Junhao Qiu"
   pronouns         : # example: "she/her"  
-  bio              : "M.S., Guangdong University of Technology"
-  location         : "Guangzhou"
-  employer         : "Guangdong University of Technology"
+  bio              : "Phd Student, CityU"
+  location         : "HK"
+  employer         : "CityU"
   uri              : # URL
-  email            : "junhaoqiu@mail2.gdut.edu.cn" 
+  email             : "junhaoqiu2-c@my.cityu.edu.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

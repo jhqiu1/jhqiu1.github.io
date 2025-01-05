@@ -1,0 +1,100 @@
+/* ==========================================================================
+   PUBLICATION CARDS -- horizontal layout
+   ========================================================================== */
+
+.publication-card__wrapper {
+  margin: 1.5em 0 2em;
+}
+
+.publication-card {
+  margin-bottom: 1em;
+}
+
+.publication-card__item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+  background-color: #fff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 2px 10px rgba(#000, 0.1);
+    transform: translateY(-1px);
+  }
+
+  @include breakpoint($small) {
+    flex-direction: row;
+    align-items: stretch;
+  }
+}
+
+/*
+   Card teaser image (top on mobile, left on desktop)
+   ========================================================================== */
+
+.publication-card__teaser {
+  flex: 0 0 100px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @include breakpoint($small) {
+    flex: 0 0 140px;
+  }
+}
+
+/*
+   Card body (bottom on mobile, right on desktop)
+   ========================================================================== */
+
+.publication-card__body {
+  flex: 1;
+  padding: 0.75em 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.publication-card__title {
+  margin: 0 0 0.15em;
+  font-size: $type-size-5;
+  font-family: $sans-serif-narrow;
+  font-weight: bold;
+  line-height: 1.3;
+
+  a {
+    text-decoration: none;
+    color: $text-color;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+.publication-card__venue {
+  margin: 0 0 0.5em;
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 25%);
+
+  i {
+    font-style: italic;
+  }
+}
+
+.publication-card__actions {
+  .btn {
+    font-size: $type-size-8;
+    padding: 0.25em 0.7em;
+    margin-right: 0.4em;
+  }
+}
