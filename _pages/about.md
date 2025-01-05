@@ -41,8 +41,6 @@ Accumulated 14 scholarships
 - *Top 10 Outstanding Graduates of the College, 2022*
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
-
-
 # Paper List
 1. **Junhao Qiu**, Jianjun Liu, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
 2. **Junhao Qiu**, Jianjun Liu, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
@@ -67,17 +65,17 @@ Competitions
 2. **Provincial**: Second Prize of Guangdong Province "Internet+" Innovation and Entrepreneurship Competition, 2023.
 3. **Provincial**: First and Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2023.
 4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2022.
-4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2021.
+5. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2021.
 
 Projects
-1. National Student Innovation and Entrepreneurship Program, 2021
-2. Provincial Student Innovation and Entrepreneurship Program, 2020
+- National Student Innovation and Entrepreneurship Program, 2021
+- Provincial Student Innovation and Entrepreneurship Program, 2020
    
 # Academic Service
 - Reviewers for *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
 
 # Academic conferences
-1.2024 The 2nd Human Centered Intelligence Academic Conference, 202412, CSU, Outstanding Poster Nomination Award
-2.The 7th Academic Conference on Big Data-Driven Smart Manufacturing, 202407, DLUT, Outstanding Paper Abstract Award
-3.Chinese Scholars International Annual Conference on Industrial Engineering(CSIE2023), 202308, HKUST, Outstanding Paper Award
+- 2024 The 2nd Human Centered Intelligence Academic Conference, 202412, CSU, Outstanding Poster Nomination Award.
+- The 7th Academic Conference on Big Data-Driven Smart Manufacturing, 202407, DLUT, Outstanding Paper Abstract Award.
+- Chinese Scholars International Annual Conference on Industrial Engineering(CSIE2023), 202308, HKUST, Outstanding Paper Award.
 
