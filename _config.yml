@@ -21,7 +21,7 @@ repository               : "jhqiu1/jhqiu1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo2.png"
+  avatar           : "perisonal-iamge" #"bio-photo2.png"
   name             : "Junhao Qiu"
   pronouns         : # example: "she/her"  
   bio              : "M.S., Guangdong University of Technology"
