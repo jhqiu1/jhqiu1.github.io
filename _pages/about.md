@@ -20,12 +20,12 @@ And i'm currently in the process of applying for a PhD.
 - *2012.09 - 2024.11 (now)*, Master, Guangdong University of Technology
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
-# 🔥 News
-- *2024.12* &nbsp;:sparkles::sparkles: Attended The 2nd Human Centered Intelligence Academic Conference and received “Outstanding Poster Nomination Award” ! 
-- *2024.08* &nbsp;:sparkles::sparkles: “A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling” has been accepted at JMS ! 
-- *2024.07* &nbsp;:sparkles::sparkles: Attended “The 7th Academic Conference on Big Data-Driven Smart Manufacturing” and received “Outstanding Paper Abstract Award” ! 
-- *2024.02* &nbsp;:sparkles::sparkles: “A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time” has been accepted at CAIE ! 
-- *2023.12* &nbsp;:sparkles::sparkles: “Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements” has been accepted at Journal of Mechanical Engineering(机械工程学报)! 
+# News
+- 🔥*2024.12* &nbsp; Attended The 2nd Human Centered Intelligence Academic Conference and received “Outstanding Poster Nomination Award” ! 
+- 🔥*2024.08* &nbsp; “A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling” has been accepted at JMS ! 
+- 🔥*2024.07* &nbsp; Attended “The 7th Academic Conference on Big Data-Driven Smart Manufacturing” and received “Outstanding Paper Abstract Award” ! 
+- *2024.02* &nbsp; “A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time” has been accepted at CAIE ! 
+- *2023.12* &nbsp; “Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements” has been accepted at Journal of Mechanical Engineering(机械工程学报)! 
 
 # Scholarship
 Accumulated 14 scholarships
