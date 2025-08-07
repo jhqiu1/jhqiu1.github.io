@@ -54,7 +54,7 @@ Accumulated 14 scholarships
 5. Ziyang Chen, Guoheng Huang, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
 6. Jianjun Liu, **Junhao Qiu**, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
 7. Jianjun Liu, **Junhao Qiu**, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
-8. Rongjie Liao, Jianjun Liu, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. International Journal of Production Research, 2025: 1-19.
+8. Rongjie Liao, Jianjun Liu, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
 
 # Patent & Software Copyright
 Patent
