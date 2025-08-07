@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, I am Junhao Qiu, a Phd student in [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html).
 
-I completed my master’s((**recommended for exemption from examination**)) and bachelor’s degrees at Guangdong University of Technology supervised by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm).
+I completed my master’s (**recommended for exemption from examination**) and bachelor’s degrees at Guangdong University of Technology supervised by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm).
 
 I am currently interested in Optimization Algorithm, Intelligent Manufacturing Systems, Scheduling & Simulation Optimization and Artificial Intelligence. 
 
