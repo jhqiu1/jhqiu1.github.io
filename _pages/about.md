@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Junhao Qiu, a Phd student in [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html).
+Hello, I am Junhao Qiu, a Phd student in [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html).
 
 I completed my master’s (**recommended for exemption from examination**) and bachelor’s degrees at Guangdong University of Technology supervised by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm).
 
@@ -33,7 +33,7 @@ For more information, you can visit my google scholar , ResearchGate, and Github
 - *2024.02* &nbsp; “A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time” has been accepted at CAIE ! 
 
 # Scholarship
-Accumulated 14 scholarships
+Accumulated 16 scholarships
 - *National Scholarship $20K, 2024*
 - *Corporate First Class Scholarship $20K, ADA, 2023*
 - *National Scholarship $20K, 2023*
@@ -42,8 +42,8 @@ Accumulated 14 scholarships
 - *First-Class Scholarship for Graduate Students, GDUT, 2022*
 
 # Honor
-- *Outstanding Graduate of Guangdong University of Technology, 2022*
-- *Top 10 Outstanding Graduates of the College, 2022*
+- *Outstanding Graduate of Guangdong University of Technology, 2022&2025*
+- *Top 10 Outstanding Graduates of the College, 2022&2025*
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
 # Paper List
