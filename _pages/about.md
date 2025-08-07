@@ -79,7 +79,7 @@ Projects
 - Provincial Student Innovation and Entrepreneurship Program, 2020
    
 # Academic Service
-- Reviewers for *AAAIh*, *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
+- Reviewers for *AAAI*, *International Journal of Production Research*, *The Journal of Super computing*, and so on.
 
 # Academic conferences
 - 2024 The 2nd Human Centered Intelligence Academic Conference, 202412, CSU, Outstanding Poster Nomination Award.
