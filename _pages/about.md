@@ -47,14 +47,14 @@ Accumulated 14 scholarships
 - *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
 
 # Paper List
-1. **Junhao Qiu**, Jianjun Liu*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
-2. **Junhao Qiu**, Jianjun Liu*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
-3. **Junhao Qiu**, Shangyu Lai, Guoheng Huang*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
-4. Genping Zhao, **Junhao Qiu**, Yeping Peng*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
+1. **Junhao Qiu**, Jianjun Liu\*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
+2. **Junhao Qiu**, Jianjun Liu\*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
+3. **Junhao Qiu**, Shangyu Lai, Guoheng Huang\*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
+4. Genping Zhao, **Junhao Qiu**, Yeping Peng\*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
 5. Ziyang Chen, Guoheng Huang*, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
-6. Jianjun Liu, **Junhao Qiu***, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
-7. Jianjun Liu, **Junhao Qiu***, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
-8. Rongjie Liao, Jianjun Liu*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
+6. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
+7. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
+8. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
 
 # Patent & Software Copyright
 Patent
