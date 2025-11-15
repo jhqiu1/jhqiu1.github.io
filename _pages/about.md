@@ -14,7 +14,7 @@ Hello, I am Junhao Qiu, a Phd student in [Optima Group](https://optima.cs.cityu.
 
 I completed my master’s (**recommended for exemption from examination**) and bachelor’s degrees at Guangdong University of Technology supervised by [Prof. Jianjun Liu](https://jdgcxy.gdut.edu.cn/info/1099/2006.htm).
 
-I am currently interested in Optimization Algorithm, Intelligent Manufacturing Systems, Scheduling & Simulation Optimization and Artificial Intelligence. 
+I am currently interested in Intelligent Manufacturing Systems, Multi-objective Optimization, Neural Combinatorial Optimization and Artificial Intelligence. 
 
 For more information, you can visit my google scholar , ResearchGate, and Github
 
