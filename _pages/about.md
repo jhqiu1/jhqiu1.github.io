@@ -19,11 +19,13 @@ I am currently interested in Intelligent Manufacturing Systems, Multi-objective 
 For more information, you can visit my google scholar , ResearchGate, and Github
 
 # Educations
-- *2025.07 - 2025.12（Now）*, Research Assistant, City University of Hongkong
+- *2026.01 - Now*, Phd Student, City University of Hongkong
+- *2025.07 - 2025.12*, Research Assistant, City University of Hongkong
 - *2022.09 - 2025.07*, Master, Guangdong University of Technology
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
 # News
+- 🔥*2025.11* &nbsp; “Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain” has been accepted at CAIE! 
 - 🔥*2025.7* &nbsp; “Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern” has been accepted at IJPR! 
 - 🔥*2025.6* &nbsp; “Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing Syste” has been accepted at 《机械工程学报》! 
 - 🔥*2025.5* &nbsp; Selected as the only outstanding representative from Guangdong provincial universities to be included in the list of 100 recipients of the National Scholarship for Graduate Students published by People’s Daily.[(作为广东省属高校唯一优秀代表入选《人民日报》刊登的 100 名研究生国家奖学金获奖学生代表名录！) ](https://mp.weixin.qq.com/s?__biz=MzA4NzY3NjgxNg==&mid=2651302993&idx=1&sn=f88e28e4bc966d944d63450f496002c9&chksm=8a762e5570f445f24b0df58d22c72b9b0f311d4c77c67cad5386eb835cb63751eb9af7caa7f0&mpshare=1&scene=1&srcid=0506g0VqbEcUQQNubvjCB8Cx&sharer_shareinfo=428d557ea2a350ec16484b5f6a02a21e&sharer_shareinfo_first=428d557ea2a350ec16484b5f6a02a21e&key=daf9bdc5abc4e8d05fb9cd6e3805b2da553a125e1f26589aefcf248962c9e434c103da7f02d7e997e5df4bb75c75ea17bbcc8cbea5295df3a7793ed16eaf43460ca7fd28e655f740e268afd0ef785dd264251a2ff576a07139feaa5f4315ff2c460a3162783f969021ce22e736c2747dde166a0420b7ab7da618f7b446186d11&ascene=0&uin=MTU2NjgzMDUxNg%3D%3D&devicetype=UnifiedPCWindows&version=f254061a&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQSWItswkdC4NRFZ5SuQkPahLoAQIE97dBBAEAAAAAAJHHLTd6gYMAAAAOpnltbLcz9gKNyK89dVj0jDgACPRUPegXqUhU%2B6Vbp3eGwUyJW5mboo8DSaoWJLNDw31YEdXhc4n6hFErNM1y4tcR2Nub9ZC8vFkDyzHp9BanYHkrZBrO%2BpG%2FtyCls5QlxZ2FDttPgn70dVu5w5%2BlX0lGCvaI6NWUuQre0Oa1reP7QPesMr9uEVMlakc0L3NOm5BpYbB9uV9PSD93%2BHBQ9ImXciDlceaUR1zO7BD0LijrPQNruJCadWmMF%2BFGN1pAIUSZqCZ2K5728qJ1f46rFEM%3D&acctmode=0&pass_ticket=m%2BifkEqXU9j1MdkOS8UUQrMBIN51PICFe0QANUQcvxeoC%2Frd2X2sLVZtjKUEB0Fk&wx_header=0)
@@ -55,6 +57,7 @@ Accumulated 16 scholarships
 6. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
 7. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
 8. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
+9. Ting Liu, Jianjun Liu\*, **Junhao Qiu**, Canlin Lai, Zhongming Zhang. Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain[J]. *Computers & Industrial Engineering*, 2025: 111711.
 
 # Patent & Software Copyright
 Patent
