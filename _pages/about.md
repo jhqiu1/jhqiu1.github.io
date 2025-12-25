@@ -36,11 +36,11 @@ For more information, you can visit my google scholar , ResearchGate, and Github
 
 # Scholarship
 Accumulated 16 scholarships
-- *National Scholarship $20K, 2024*
-- *Corporate First Class Scholarship $20K, ADA, 2023*
-- *National Scholarship $20K, 2023*
-- *Top Student Scholarships $20K, GDUT, 2022-2024*
-- *First-Class Scholarship for Undergraduate Students $10K, GDUT, 2023*
+- *National Scholarship 2024*
+- *Corporate First Class Scholarship ADA, 2023*
+- *National Scholarship 2023*
+- *Top Student Scholarships GDUT, 2022-2024*
+- *First-Class Scholarship for Undergraduate Students GDUT, 2023*
 - *First-Class Scholarship for Graduate Students, GDUT, 2022*
 
 # Honor
