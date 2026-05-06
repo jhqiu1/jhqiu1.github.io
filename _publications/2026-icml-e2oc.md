@@ -8,7 +8,7 @@ citation: "Junhao Qiu, Xin Chen, Liang Ge, Liyong Lin, Zhichao Lu, Qingfu Zhang.
 category: conferences
 authors: "Junhao Qiu, Xin Chen, Liang Ge, Liyong Lin, Zhichao Lu, Qingfu Zhang"
 paperurl: "https://arxiv.org/abs/2601.17899"
-codeurl: ""
+codeurl: "https://github.com/jhqiu1/E2OC"
 featured: true
 header:
   teaser: "e2oc/figure_Com_pipeline_01.png"
@@ -18,7 +18,7 @@ header:
   <div class="paper-hero__badge"><i class="fas fa-trophy"></i> ICML 2026 &middot; May 1, 2026</div>
   <h1 class="paper-hero__title">Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization</h1>
   <p class="paper-hero__authors">
-    <strong>Junhao Qiu</strong>, <strong>Xin Chen</strong>, <strong>Liang Ge</strong>, <strong>Liyong Lin</strong><sup>*</sup>, <strong>Zhichao Lu</strong>, <strong>Qingfu Zhang</strong><sup>*</sup>
+    <a href="https://jhqiu1.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Junhao Qiu</strong></a>, <strong>Xin Chen</strong>, <strong>Liang Ge</strong>, <a href="https://scholar.google.com/citations?user=LMhx1sYAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Liyong Lin</strong></a><sup>*</sup>, <a href="https://www.cs.cityu.edu.hk/~zhichalu/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Zhichao Lu</strong></a>, <a href="https://www.cs.cityu.edu.hk/~qzhan7/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Qingfu Zhang</strong></a><sup>*</sup>
   </p>
   <p class="paper-hero__authors" style="font-size:0.85em; color:#7ba9cc;">
     City University of Hong Kong &middot; Contemporary Amperex Technology Limited (CATL)
@@ -34,7 +34,7 @@ header:
   <div class="paper-hero__actions">
     <a href="#framework" class="paper-hero__btn paper-hero__btn--primary"><i class="fas fa-project-diagram"></i> Framework</a>
     <a href="https://arxiv.org/abs/2601.17899" class="paper-hero__btn paper-hero__btn--outline" target="_blank" rel="noopener"><i class="fas fa-file-alt"></i> arXiv Paper</a>
-    <a href="#" class="paper-hero__btn paper-hero__btn--outline" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a>
+    <a href="https://github.com/jhqiu1/E2OC" class="paper-hero__btn paper-hero__btn--outline" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a>
   </div>
 </div>
 

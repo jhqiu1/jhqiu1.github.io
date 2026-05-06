@@ -66,6 +66,17 @@
   }
 }
 
+.paper-hero__author-link {
+  color: inherit;
+  text-decoration: none;
+  transition: text-shadow 0.2s ease;
+
+  &:hover {
+    text-decoration: underline;
+    text-shadow: 0 0 8px rgba(255,255,255,0.5);
+  }
+}
+
 .paper-hero__contact {
   font-size: 0.85em;
   color: #9db8d4;
@@ -381,8 +392,8 @@
 
   .best td {
     font-weight: 700;
-    color: #fff;
-    background: #1a6b3c;
+    color: #fff !important;
+    background: #1a6b3c !important;
   }
 }
 
@@ -420,8 +431,8 @@
 
   .best td {
     font-weight: 700;
-    color: #fff;
-    background: #1a6b3c;
+    color: #fff !important;
+    background: #1a6b3c !important;
   }
 }
 
