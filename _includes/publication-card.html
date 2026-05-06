@@ -10,24 +10,37 @@
     <div class="publication-card__teaser">
       {% if teaser %}
         <img src="{{ teaser | prepend: "/images/" | prepend: include.base_path }}" alt="" loading="lazy">
+      {% else %}
+        <span class="publication-card__teaser-placeholder">Featured<br>Paper</span>
       {% endif %}
     </div>
 
     <div class="publication-card__body">
       <h3 class="publication-card__title" itemprop="headline">
-        <a href="{{ include.url | prepend: include.base_path }}" rel="permalink">{{ include.title }}</a>
+        {% if include.link and include.link != "" %}
+          <a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.title }}</a>
+        {% else %}
+          <a href="{{ include.url | prepend: include.base_path }}" rel="permalink" target="_blank">{{ include.title }}</a>
+        {% endif %}
       </h3>
+
+      {% if include.authors and include.authors != "" %}
+        <p class="publication-card__authors">{{ include.authors }}</p>
+      {% endif %}
 
       {% if include.venue and include.venue != "" %}
         <p class="publication-card__venue"><i>{{ include.venue }}</i></p>
       {% endif %}
 
       <div class="publication-card__actions">
+        {% if include.link and include.link != "" %}
+          <a href="{{ include.url | prepend: include.base_path }}" class="pub-btn pub-btn--website"><i class="fas fa-globe"></i> Website</a>
+        {% endif %}
         {% if include.paperurl and include.paperurl != "" %}
-          <a href="{{ include.paperurl }}" class="btn btn--small btn--primary" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+          <a href="{{ include.paperurl }}" class="pub-btn pub-btn--paper" target="_blank" rel="noopener"><i class="fas fa-file-alt"></i> Paper</a>
         {% endif %}
         {% if include.codeurl and include.codeurl != "" %}
-          <a href="{{ include.codeurl }}" class="btn btn--small btn--primary" target="_blank" rel="noopener"><i class="fas fa-code"></i> Code</a>
+          <a href="{{ include.codeurl }}" class="pub-btn pub-btn--code" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>
         {% endif %}
       </div>
     </div>

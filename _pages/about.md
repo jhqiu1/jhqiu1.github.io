@@ -25,6 +25,7 @@ For more information, you can visit my google scholar , ResearchGate, and Github
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
 # :newspaper: News
+- 🔥*2026.05* &nbsp; “Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization” has been accepted at ICML 2026!
 - 🔥*2025.11* &nbsp; “Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain” has been accepted at CAIE! 
 - 🔥*2025.7* &nbsp; “Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern” has been accepted at IJPR! 
 - 🔥*2025.6* &nbsp; “Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing Syste” has been accepted at 《机械工程学报》! 
@@ -34,46 +35,41 @@ For more information, you can visit my google scholar , ResearchGate, and Github
 - *2024.07* &nbsp; Attended “The 7th Academic Conference on Big Data-Driven Smart Manufacturing” and received “Outstanding Paper Abstract Award” ! 
 - *2024.02* &nbsp; “A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time” has been accepted at CAIE ! 
 
-# :trophy: Scholarship
-Accumulated 16 scholarships
-- *National Scholarship 2024*
-- *Corporate First Class Scholarship ADA, 2023*
-- *National Scholarship 2023*
-- *Top Student Scholarships GDUT, 2022-2024*
-- *First-Class Scholarship for Undergraduate Students GDUT, 2023*
-- *First-Class Scholarship for Graduate Students, GDUT, 2022*
-
-# :medal_military: Honor
-- *Outstanding Graduate of Guangdong University of Technology, 2022&2025*
-- *Top 10 Outstanding Graduates of the College, 2022&2025*
-- *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
-
 # :star2: Featured Publications
 
 <div class="publication-card__wrapper" markdown="0">
 {% for post in site.publications reversed %}
-  {% include publication-card.html
-    base_path=site.baseurl
-    teaser_img=post.header.teaser
-    title=post.title
-    url=post.url
-    venue=post.venue
-    paperurl=post.paperurl
-    codeurl=post.codeurl
-  %}
+  {% if post.featured %}
+    {% include publication-card.html
+      base_path=site.baseurl
+      teaser_img=post.header.teaser
+      title=post.title
+      url=post.url
+      authors=post.authors
+      venue=post.venue
+      link=post.link
+      paperurl=post.paperurl
+      codeurl=post.codeurl
+    %}
+  {% endif %}
 {% endfor %}
 </div>
 
-# :page_facing_up: Full Publication List
-1. **Junhao Qiu**, Jianjun Liu\*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
-2. **Junhao Qiu**, Jianjun Liu\*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
-3. **Junhao Qiu**, Shangyu Lai, Guoheng Huang\*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
-4. Genping Zhao, **Junhao Qiu**, Yeping Peng\*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
-5. Ziyang Chen, Guoheng Huang*, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
-6. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
-7. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
-8. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
-9. Ting Liu, Jianjun Liu\*, **Junhao Qiu**, Canlin Lai, Zhongming Zhang. Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain[J]. *Computers & Industrial Engineering*, 2025: 111711.
+# :page_facing_up: Publication List
+Visit [Google Scholar](https://scholar.google.com/citations?user=P6z76UIAAAAJ&hl=zh-CN&oi=sra) for full paper list.
+
+Selected Papers
+
+1. **Junhao Qiu**, Xin Chen, Liang Ge, Liyong Lin\*, Zhichao Lu, Qingfu Zhang\*. Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization. *ICML*, 2026.
+2. **Junhao Qiu**, Jianjun Liu\*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
+3. **Junhao Qiu**, Jianjun Liu\*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
+4. **Junhao Qiu**, Shangyu Lai, Guoheng Huang\*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
+5. Genping Zhao, **Junhao Qiu**, Yeping Peng\*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
+6. Ziyang Chen, Guoheng Huang*, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
+7. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, (06):316-330.(机械工程学报)
+8. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, Accepted, 2025.(机械工程学报)
+9. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
+10. Ting Liu, Jianjun Liu\*, **Junhao Qiu**, Canlin Lai, Zhongming Zhang. Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain[J]. *Computers & Industrial Engineering*, 2025: 111711.
 
 # :bulb: Patents & Software Copyright
 Patent
@@ -97,11 +93,24 @@ Projects
 - National Student Innovation and Entrepreneurship Program, 2021
 - Provincial Student Innovation and Entrepreneurship Program, 2020
    
-# :handshake: Academic Service
-- Reviewers for *AAAI*, *International Journal of Production Research*, *The Journal of Super computing*, and so on.
+# :medal_military: Honor
+- *Outstanding Graduate of Guangdong University of Technology, 2022&2025*
+- *Top 10 Outstanding Graduates of the College, 2022&2025*
+- *Outstanding Industrial Engineering Student of Guangdong Province, 2022*
+
+# :trophy: Scholarship
+Accumulated 16 scholarships
+- *National Scholarship 2024*
+- *Corporate First Class Scholarship ADA, 2023*
+- *National Scholarship 2023*
+- *Top Student Scholarships GDUT, 2022-2024*
+- *First-Class Scholarship for Undergraduate Students GDUT, 2023*
+- *First-Class Scholarship for Graduate Students, GDUT, 2022*
 
 # :microphone: Academic Conferences
 - 2024 The 2nd Human Centered Intelligence Academic Conference, 202412, CSU, Outstanding Poster Nomination Award.
 - The 7th Academic Conference on Big Data-Driven Smart Manufacturing, 202407, DLUT, Outstanding Paper Abstract Award.
 - Chinese Scholars International Annual Conference on Industrial Engineering(CSIE2023), 202308, HKUST, Outstanding Paper Award.
 
+# :handshake: Academic Service
+- Reviewers for *ICML*, *NIPS*, *AAAI*, *IJCAI*, *International Journal of Production Research*, *The Journal of Super computing*, and so on.

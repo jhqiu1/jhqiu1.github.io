@@ -1,7 +1,7 @@
 {
   "name": "jhqiu1.github.io",
   "version": "1.0.0",
-  "description": "Junhao Qiu's academic personal website",
+  "description": "JunhaoQiu's academic personal website",
   "repository": {
     "type": "git",
     "url": "https://github.com/jhqiu1/jhqiu1.github.io"
@@ -11,7 +11,7 @@
     "theme",
     "academic"
   ],
-  "author": "Junhao Qiu",
+  "author": "JunhaoQiu",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10.0"

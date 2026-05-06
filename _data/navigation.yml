@@ -1,17 +1,2 @@
 # main links in the site header
-
 main:
-  - title: "About"
-    url: /
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Publications"
-    url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
