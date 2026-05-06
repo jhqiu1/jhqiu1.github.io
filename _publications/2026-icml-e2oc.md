@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "E2OC: Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization"
+title: "Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization"
 permalink: /e2oc/
 date: 2026-05-01
 venue: "International Conference on Machine Learning (ICML), 2026"
