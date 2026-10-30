@@ -8,6 +8,7 @@ citation: "Junhao Qiu, Haoyang Zhuang, Fei Liu, Jianjun Liu, Qingfu Zhang. EvoDR
 category: manuscripts
 authors: "Junhao Qiu, Haoyang Zhuang, Fei Liu, Jianjun Liu, Qingfu Zhang"
 paperurl: "https://arxiv.org/abs/2601.15738"
+codeurl: "https://github.com/jhqiu1/EvoDR"
 featured: true
 header:
   teaser: "evodr/figure_framework.png"
@@ -17,7 +18,7 @@ header:
   <div class="paper-hero__badge"><i class="fas fa-book"></i> IEEE TEVC &middot; 2026</div>
   <h1 class="paper-hero__title">EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling</h1>
   <p class="paper-hero__authors">
-    <a href="https://jhqiu1.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Junhao Qiu</strong></a><sup>1</sup>, <strong>Haoyang Zhuang</strong><sup>2</sup>, <strong>Fei Liu</strong><sup>1</sup>, <a href="https://jdgcxy.gdut.edu.cn/info/1099/2006.htm" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Jianjun Liu</strong></a><sup>2</sup>, <a href="https://www.cs.cityu.edu.hk/~qzhan7/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Qingfu Zhang</strong></a><sup>1,*</sup>
+    <a href="https://jhqiu1.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Junhao Qiu</strong></a><sup>1</sup>, <strong>Haoyang Zhuang</strong><sup>2</sup>, <a href="https://feiliu36.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Fei Liu</strong></a><sup>1</sup>, <a href="https://jdgcxy.gdut.edu.cn/info/1099/2006.htm" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Jianjun Liu</strong></a><sup>2</sup>, <a href="https://www.cs.cityu.edu.hk/~qzhan7/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Qingfu Zhang</strong></a><sup>1,*</sup>
   </p>
   <p class="paper-hero__authors" style="font-size:0.85em; color:#7ba9cc;">
     <sup>1</sup> City University of Hong Kong &nbsp;&middot;&nbsp; <sup>2</sup> Guangdong University of Technology
@@ -29,6 +30,7 @@ header:
   <div class="paper-hero__actions">
     <a href="#framework" class="paper-hero__btn paper-hero__btn--primary"><i class="fas fa-project-diagram"></i> Framework</a>
     <a href="https://arxiv.org/abs/2601.15738" class="paper-hero__btn paper-hero__btn--outline" target="_blank" rel="noopener"><i class="fas fa-file-alt"></i> arXiv Paper</a>
+    <a href="https://github.com/jhqiu1/EvoDR" class="paper-hero__btn paper-hero__btn--outline" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a>
   </div>
 </div>
 
@@ -327,7 +329,8 @@ header:
              Liu, Jianjun and Zhang, Qingfu},
   journal = {IEEE Transactions on Evolutionary Computation},
   year    = {2026},
-  note    = {arXiv:2601.15738}
+  note    = {arXiv:2601.15738},
+  url     = {https://github.com/jhqiu1/EvoDR}
 }
     </div>
   </div>
