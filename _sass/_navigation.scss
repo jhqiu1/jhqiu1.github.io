@@ -459,6 +459,7 @@
   .visible-links {
     margin-left: auto;
     margin-right: 0.75rem;
+    flex-shrink: 0;
   }
 
   /* the first visible link is no longer the site title */
