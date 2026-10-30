@@ -484,3 +484,16 @@ h2[id] {
     scroll-behavior: smooth;
   }
 }
+
+/* On narrow screens the title and the menu cannot share one row, and the
+   menu is more useful than the name, so the title steps aside. */
+@media screen and (max-width: 767px) {
+  .greedy-nav .masthead__site-title {
+    display: none;
+  }
+
+  .greedy-nav .visible-links {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
