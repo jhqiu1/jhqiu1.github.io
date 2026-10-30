@@ -14,3 +14,7 @@ package-lock.json
 
 # Ignore local reference materials
 add_infor/
+infor/
+
+# Ignore agent workspace data
+.workbuddy/

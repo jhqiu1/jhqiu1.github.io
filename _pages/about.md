@@ -25,6 +25,7 @@ For more information, you can visit my [Google Scholar](https://scholar.google.c
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
 # :newspaper: News
+- 🔥*2026.10* &nbsp; “EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling” had been accepted at IEEE Transactions on Evolutionary Computation (TEVC)!
 - 🔥*2026.05* &nbsp; “Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization” had been accepted at ICML 2026!
 - 🔥*2025.11* &nbsp; “Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain” had been accepted at CAIE! 
 - 🔥*2025.7* &nbsp; “Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern” had been accepted at IJPR! 
@@ -60,17 +61,18 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=P6z76UIAAAAJ&hl
 
 Selected Papers
 
-1. **Junhao Qiu**, Xin Chen, Liang Ge, Liyong Lin\*, Zhichao Lu, Qingfu Zhang\*. Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization. *ICML*, 2026.
-2. **Junhao Qiu**, Jianjun Liu\*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
-3. **Junhao Qiu**, Jianjun Liu\*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
-4. **Junhao Qiu**, Shangyu Lai, Guoheng Huang\*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
-5. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, 61(06):316-330.
-6. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, 2025, 61(15):351-371.
-7. Genping Zhao, **Junhao Qiu**, Yeping Peng\*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
-8. Ziyang Chen, Guoheng Huang\*, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
+1. **Junhao Qiu**, Haoyang Zhuang, Fei Liu, Jianjun Liu, Qingfu Zhang\*. EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling. *IEEE Transactions on Evolutionary Computation*, 2026.
+2. **Junhao Qiu**, Xin Chen, Liang Ge, Liyong Lin\*, Zhichao Lu, Qingfu Zhang\*. Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization. *ICML*, 2026.
+3. **Junhao Qiu**, Jianjun Liu\*, Zhantao Li, Xinjun Lai. A multi-level action coupling reinforcement learning approach for online two-stage flexible assembly Flowshop scheduling[J]. *Journal of Manufacturing Systems*, 2024, 76: 351-370. 
+4. **Junhao Qiu**, Jianjun Liu\*, Chengfeng Peng, Qingxin Chen. A novel predictive-reactive scheduling method for parallel batch processor lot-sizing and scheduling with sequence-dependent setup time[J]. *Computers & Industrial Engineering*, 2024. 
+5. **Junhao Qiu**, Shangyu Lai, Guoheng Huang\*, Weiwen Zhang, Junhui Mai, Chi-Man Pun, Wing-Kuen Ling. TriView-ParNet: parallel network for hybrid recognition of touching printed and handwritten strings based on feature fusion and three-view co-training[J]. *Applied Intelligence*, 2022: 1-20.
+6. Jianjun Liu, **Junhao Qiu**\*, Chaoxiong Mo, Xinjun Lai, Qingxin Chen, Ning Mao. Rolling scheduling of distributed multi-site final-assembly projects under integrated customization requirements[J]. *Journal of Mechanical Engineering*, 2025, 61(06):316-330.
+7. Jianjun Liu, **Junhao Qiu**\*, Zhongming Zhang. Human-Computer Interaction Scheduling and Case Studies in Complex Manufacturing System[J]. *Journal of Mechanical Engineering*, 2025, 61(15):351-371.
+8. Genping Zhao, **Junhao Qiu**, Yeping Peng\*, Xiaowei Zhang. Development of RGB-D simultaneous localization and mapping in dynamic environments based on motion removal and dense map reconstruction[J]. *Journal of Applied Remote Sensing*, 2022, 16(4): 044526.
+9. Ziyang Chen, Guoheng Huang\*, Ying Wang, **Junhao Qiu**, Fan Yang, Zhiwen Yu, Chi-Man Pun. Bi-deformation-UNet: recombination of differential channels for printed surface defect detection[J]. *The Visual Computer*, 2022: 1-19.
 
-9. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
-10. Ting Liu, Jianjun Liu\*, **Junhao Qiu**, Canlin Lai, Zhongming Zhang. Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain[J]. *Computers & Industrial Engineering*, 2025: 111711.
+10. Rongjie Liao, Jianjun Liu\*, **Junhao Qiu**, Chengfeng Peng. Collaborative optimisation framework for multi-stage flexible assembly shop scheduling with mixed production pattern[J]. *International Journal of Production Research*, 2025: 1-19.
+11. Ting Liu, Jianjun Liu\*, **Junhao Qiu**, Canlin Lai, Zhongming Zhang. Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain[J]. *Computers & Industrial Engineering*, 2025: 111711.
 
 # :bulb: Patents & Software Copyright
 Patent
