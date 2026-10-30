@@ -55,6 +55,6 @@ Teaching
 
 Service and Leadership
 ======
-* Reviewer: ICML, ICLR, NIPS, AAAI, IJCAI, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Production Research
+* Reviewer: ICML, ICLR, NIPS, AAAI, IJCAI, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Production Research, The Journal of Supercomputing
 * National Scholarship 2023, 2024
 * Outstanding Graduate of Guangdong University of Technology, 2022 & 2025
