@@ -14,13 +14,13 @@ header:
 ---
 
 <div class="paper-hero">
-  <div class="paper-hero__badge"><i class="fas fa-book"></i> IEEE TEVC &middot; Accepted, 2026</div>
+  <div class="paper-hero__badge"><i class="fas fa-book"></i> IEEE TEVC &middot; 2026</div>
   <h1 class="paper-hero__title">EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling</h1>
   <p class="paper-hero__authors">
-    <a href="https://jhqiu1.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Junhao Qiu</strong></a>, <strong>Haoyang Zhuang</strong>, <strong>Fei Liu</strong>, <a href="https://jdgcxy.gdut.edu.cn/info/1099/2006.htm" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Jianjun Liu</strong></a>, <a href="https://www.cs.cityu.edu.hk/~qzhan7/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Qingfu Zhang</strong></a><sup>*</sup>
+    <a href="https://jhqiu1.github.io" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Junhao Qiu</strong></a><sup>1</sup>, <strong>Haoyang Zhuang</strong><sup>2</sup>, <strong>Fei Liu</strong><sup>1</sup>, <a href="https://jdgcxy.gdut.edu.cn/info/1099/2006.htm" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Jianjun Liu</strong></a><sup>2</sup>, <a href="https://www.cs.cityu.edu.hk/~qzhan7/index.html" target="_blank" rel="noopener" class="paper-hero__author-link" title="Homepage"><strong>Qingfu Zhang</strong></a><sup>1,*</sup>
   </p>
   <p class="paper-hero__authors" style="font-size:0.85em; color:#7ba9cc;">
-    City University of Hong Kong &middot; Guangdong University of Technology
+    <sup>1</sup> City University of Hong Kong &nbsp;&middot;&nbsp; <sup>2</sup> Guangdong University of Technology
   </p>
   <p class="paper-hero__contact">
     <i class="fas fa-envelope"></i> junhaoqiu2-c@my.cityu.edu.hk &nbsp;&middot;&nbsp; <sup>*</sup> Corresponding author
@@ -48,7 +48,7 @@ header:
       </p>
     </div>
     <div class="paper-abstract-cn">
-      动态柔性装配流水车间调度（FAFSP）具有节拍式物料配套与机器柔性两大特征。GP 能自动生成调度规则，但依赖固定终结符集、可解释性弱。本文提出 <strong>EvoDR</strong>：把多阶段装配供应决策建模为异构图上<strong>有向边的优先级排序</strong>，并以<strong>双专家协同进化</strong>机制驱动规则演化——<strong>LLM-A</strong> 负责生成可执行代码，<strong>LLM-S</strong> 负责调度语义分析与反思。在 24 个场景、480 个实例上，EvoDR 的平均拖期优于现有 AHD 方法与专家手工规则。
+      动态柔性装配流水车间调度（FAFSP）以装配物料结构配套与机器柔性为主要特征。GP 能自动生成调度规则，但依赖固定终结符集、可解释性弱。本文提出 <strong>EvoDR</strong>：把多阶段装配供应决策建模为异构图上<strong>有向边的优先级排序</strong>，并以<strong>双专家协同进化</strong>机制驱动规则演化——<strong>LLM-A</strong> 负责生成可执行代码，<strong>LLM-S</strong> 负责调度语义分析与反思。在 24 个场景、480 个实例上，EvoDR 的平均拖期优于现有 AHD 方法与专家手工规则。
     </div>
   </div>
 
@@ -84,14 +84,14 @@ header:
     <h2 class="paper-section__title">2. Problem Modeling: Heterogeneous Graph and MDP</h2>
     <div class="paper-text">
       <p>
-        Processing jobs, assembly jobs and delivery requests are treated as nodes of a <strong>heterogeneous graph</strong>, with precedence, kitting and product-set relations as typed edges. At each event-triggered decision step <code>t</code>, the system ranks feasible <strong>(job, machine) arcs</strong> — i.e., joint machine assignment and job sequencing — rather than ranking jobs and machines separately. This removes the <strong>decision-preference inconsistency</strong> between the processing stage (efficiency, complete kits) and the assembly stage (product-set coordination), which is exactly where hand-crafted rule combinations break down.
+        Processing jobs, assembly jobs and delivery requests are treated as nodes of a <strong>heterogeneous graph</strong>, with precedence, kitting and product-set relations as typed edges. At each event-triggered decision step <code>t</code>, the system ranks feasible <strong>(job, machine) arcs</strong> — i.e., joint machine assignment and job sequencing — rather than ranking jobs and machines separately. This avoids the <strong>decision-preference inconsistency</strong> between the processing stage (efficiency, complete kits) and the assembly stage (product-set coordination), where hand-crafted rule combinations tend to fail.
       </p>
       <p>
         The dynamic problem is then cast as an <strong>MDP</strong> over this graph, where the state is the current shop-floor state plus the dynamic feature vector, the action is the selected arc, and the reward is derived from order tardiness, so that the dispatching rule is a policy defined on the graph rather than a fixed priority formula.
       </p>
     </div>
     <div class="paper-text-cn">
-      将加工任务、装配任务与交付请求建模为异构图的节点，前置约束、配套约束、产品集约束作为类型化边。每次事件触发的决策步不是分别给工件和机器打分，而是对可行 <strong>(工件, 机器) 弧</strong>排序，从根上消除了加工阶段（效率、配套）与装配阶段（产品集协同）之间的决策偏好冲突——这正是手工规则组合真正失效的地方。整个动态问题随后被形式化为该图上的 MDP，调度规则即为图上的策略。
+      将加工任务、装配任务与交付请求建模为异构图的节点，前置约束、配套约束、产品集约束作为类型化边。每次事件触发的决策步不是分别给工件和机器打分，而是对可行 <strong>(工件, 机器) 弧</strong>排序，避免了加工阶段（效率、配套）与装配阶段（产品集协同）之间的决策偏好冲突，手工规则组合往往就失效在这一步。整个动态问题随后被形式化为该图上的 MDP，调度规则即为图上的策略。
     </div>
   </div>
 
@@ -126,11 +126,11 @@ header:
     <div class="paper-section__subtitle">Phase 3: Hybrid Evaluation</div>
     <div class="paper-text">
       <p>
-        Two independent channels. The <strong>objective channel</strong> computes fitness in the simulator and is the <em>only</em> basis for updating the incumbent, parent selection and survival selection. The <strong>semantic channel</strong> (LLM-S) returns a structured report — advantages, limitations, actionable suggestions — that is injected into the generation prompt but <em>never</em> into fitness or selection. This separation is deliberate: it lets domain knowledge steer the search direction without letting a model's opinion leak into the ranking of rules.
+        Two independent channels. The <strong>objective channel</strong> computes fitness in the simulator and is the <em>only</em> basis for updating the incumbent, parent selection and survival selection. The <strong>semantic channel</strong> (LLM-S) returns a structured report — advantages, limitations, actionable suggestions — that is injected into the generation prompt but <em>never</em> into fitness or selection. Semantic feedback therefore affects the search direction only, not how rules are ranked.
       </p>
     </div>
     <div class="paper-text-cn">
-      两条独立通道：目标通道在模拟器中算适应度，是更新当前最优、选择父代、生存选择的唯一依据；语义通道由 LLM-S 输出结构化报告（优势、局限、可执行建议），只注入生成提示，绝不进入适应度或选择。这个分离是刻意的——让领域知识引导搜索方向，又不让模型的主观评价污染规则排序。
+      两条独立通道：目标通道在模拟器中算适应度，是更新当前最优、选择父代、生存选择的唯一依据；语义通道由 LLM-S 输出结构化报告（优势、局限、可执行建议），只注入生成提示，不参与适应度和选择计算。语义反馈因此只影响搜索方向，不改变规则排序。
     </div>
 
     <div class="paper-section__subtitle">Phase 4: Feature-Fitting Rule Evolution</div>
@@ -269,7 +269,7 @@ header:
     </div>
     <div class="paper-text-cn">
       特征设计影响最大：去掉弧特征（−28.09%）或订单特征（−24.08%）会灾难性退化，而机器特征缺失仍能保持有竞争力——在双 kitting 约束下，拓扑与订单级动态远比加工单元本身重要。精英知识初始化是第二大贡献项。
-      混合评估的结论需要保留意见：完全去掉 LLM-S 会退化到 1272.80，但换成随机建议也有 1107.07，仅比完整模型差 23。因此收益不完全来自"语义质量"本身，任何清晰的反馈都能拓宽搜索。论文进一步验证稳定性：建议池小（4 条）时随机反馈尚有竞争力，扩大到 37 条后明显不稳定且退化，而 LLM-S 的调度专属反馈保持定向价值。随机反馈只是碰巧的配置，不是稳健替代。
+      混合评估这一项并不单调：完全去掉 LLM-S 会退化到 1272.80，但换成随机建议也有 1107.07，仅比完整模型差 23。收益并不完全来自语义质量本身——任何清晰的反馈都能拓宽搜索。论文对稳定性做了验证：建议池小（4 条）时随机反馈尚有竞争力，扩大到 37 条后明显不稳定并退化，而 LLM-S 的调度专属反馈保持定向价值。随机反馈只是碰巧合适的配置，不是稳健替代。
     </div>
 
     <div class="paper-figure paper-figure--constrained">
@@ -290,7 +290,7 @@ header:
       </p>
     </div>
     <div class="paper-text-cn">
-      成本按 LLM-A / LLM-S 分别报告。完整一次设计约 $0.19，其中 LLM-S 在 LLM-A 的 0.30M token 之外额外消耗约 0.16M。需要强调的是这只是<strong>一次性离线设计成本</strong>：在线运行时进化出的规则每次决策仅做一次候选弧排序，耗时亚毫秒级，不调用任何 LLM。客观地说，EvoDR 的成本高于 EoH（$0.19 vs $0.131），换来的是明显更低的拖期。
+      成本按 LLM-A / LLM-S 分别报告。完整一次设计约 $0.19，其中 LLM-S 在 LLM-A 的 0.30M token 之外额外消耗约 0.16M。这笔开销只发生一次：在线运行时进化出的规则每次决策只做一次候选弧排序，亚毫秒级，不调用 LLM。EvoDR 的成本高于 EoH（$0.19 vs $0.131），换取明显更低的拖期。
     </div>
   </div>
 
