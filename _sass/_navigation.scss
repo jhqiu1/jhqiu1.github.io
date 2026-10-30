@@ -437,12 +437,36 @@
    Custom header navigation
    ========================================================================== */
 
-/* keep the site title on the left and push the menu links to the right */
-.greedy-nav .visible-links {
-  width: 100%;
+/* site title on the left, menu links on the right */
+.greedy-nav {
+  display: flex;
+  align-items: center;
 
-  > li:first-child {
-    width: 100%;
+  .masthead__site-title {
+    margin: 0;
+    padding-right: 3rem;
+    min-width: 0;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  .visible-links {
+    margin-left: auto;
+  }
+
+  /* the first visible link is no longer the site title */
+  .visible-links > li:first-child {
+    font-weight: normal;
+
+    a {
+      margin-left: 1rem;
+    }
   }
 }
 
