@@ -25,6 +25,7 @@ For more information, you can visit my [Google Scholar](https://scholar.google.c
 - *2018.09 - 2022.07*, Undergraduate, Guangdong University of Technology
 
 # :newspaper: News
+- 🔥*2026.10* &nbsp; Our E2OC work, jointly developed with CATL, won the First Prize at the 8th Guangdong Province & Guangdong-Hong Kong-Macao Greater Bay Area Industrial Engineering Innovation Competition. [(与宁德时代联合参赛，获一等奖)](https://mp.weixin.qq.com/s/2up3VFrKn-FtWpAUdrl4Iw?scene=1)
 - 🔥*2026.10* &nbsp; “EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling” had been accepted at IEEE Transactions on Evolutionary Computation (TEVC)!
 - 🔥*2026.05* &nbsp; “Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization” had been accepted at ICML 2026!
 - 🔥*2025.11* &nbsp; “Recent advances in assembly flow shop scheduling and its extensions to distributed manufacturing and integrated supply chain” had been accepted at CAIE! 
@@ -89,8 +90,7 @@ Competitions
 1. **National**: Second Prize of "Huawei Cup" Graduate Student Mathematical Modeling Competition, 2023.
 2. **Provincial**: Second Prize of Guangdong Province "Internet+" Innovation and Entrepreneurship Competition, 2023.
 3. **Provincial**: First and Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2023.
-4. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2022.
-5. **Provincial**: Second Prizes of Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, 2021.
+4. **Provincial**: First Prize of the 8th Industrial Engineering Innovation Competition of Guangdong Province and Guangdong-Hong Kong-Macao Greater Bay Area, with CATL, 2026.
 
 Projects
 - National Student Innovation and Entrepreneurship Program, 2021
