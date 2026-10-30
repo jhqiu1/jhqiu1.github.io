@@ -3,11 +3,10 @@
  *
  * Minimal Mistakes ships a "greedy nav" that compares the width of the
  * visible link list against the nav container. That assumes the site title
- * lives inside the same list. Once the title is moved out (so the links can
- * be right-aligned), the calculation underestimates the space needed and the
- * menu overflows instead of collapsing. This file re-implements the check
- * with the title width taken into account and overrides the global
- * updateNav() the theme binds to resize events.
+ * lives inside the same list. The title now sits outside the list so the
+ * links can be right-aligned, which breaks that measurement. Instead of
+ * patching the heuristic, this uses an explicit breakpoint: below it the
+ * links move into the drop-down, above it they are all shown.
  */
 (function () {
   var $ = window.jQuery;
@@ -23,36 +22,20 @@
   var $btn = $nav.find('button');
   var $vlinks = $nav.find('.visible-links');
   var $hlinks = $nav.find('.hidden-links');
-  var $title = $nav.find('.masthead__site-title');
 
-  var GAP = 32;
+  var BREAKPOINT = 640;
 
   function update() {
-    // Start from a clean state: every link visible, drop-down closed.
+    // Reset: every link visible, drop-down closed.
     $hlinks.children().appendTo($vlinks);
     $hlinks.addClass('hidden');
-    $btn.addClass('hidden');
 
-    var titleWidth = $title.outerWidth(true) || 0;
-    var available = $nav.width() - titleWidth - GAP;
-
-    if ($vlinks.width() <= available) {
-      $btn.attr('count', 0);
-      return;
+    if (window.innerWidth < BREAKPOINT) {
+      $vlinks.children().appendTo($hlinks);
+      $btn.removeClass('hidden').attr('count', $hlinks.children().length);
+    } else {
+      $btn.addClass('hidden').attr('count', 0);
     }
-
-    // The drop-down button only appears once something has to be hidden,
-    // and it eats into the space the links may use.
-    $btn.removeClass('hidden');
-    available -= $btn.outerWidth(true) || 0;
-
-    var guard = $vlinks.children().length;
-
-    while (guard-- > 0 && $vlinks.width() > available && $vlinks.children().length) {
-      $vlinks.children().last().prependTo($hlinks);
-    }
-
-    $btn.attr('count', $hlinks.children().length);
   }
 
   // The theme's resize handler calls the global updateNav(), so replacing it
@@ -60,5 +43,9 @@
   window.updateNav = update;
 
   $(update);
-  $(window).on('load', update);
+  $(window).on('resize load', update);
+  $(window).on('load', function () {
+    $btn.removeClass('close');
+    $hlinks.addClass('hidden');
+  });
 })();
