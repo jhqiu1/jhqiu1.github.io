@@ -126,4 +126,4 @@ Accumulated 16 scholarships
 - Chinese Scholars International Annual Conference on Industrial Engineering (CSIE 2023), 2023.08, HKUST, Outstanding Paper Award.
 
 # :handshake: Academic Service
-- Reviewers for *ICML*, *NIPS*, *AAAI*, *IJCAI*, *International Journal of Production Research*, *The Journal of Supercomputing*, and so on.
+- Reviewers for *ICML*, *ICLR*, *NIPS*, *AAAI*, *IJCAI*, *IEEE Transactions on Automation Science and Engineering*, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, *International Journal of Production Research*, and so on.
