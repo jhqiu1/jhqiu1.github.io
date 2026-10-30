@@ -1,2 +1,12 @@
 # main links in the site header
 main:
+  - title: "About"
+    url: "/#about-me"
+  - title: "News"
+    url: "/#newspaper-news"
+  - title: "Publications"
+    url: "/#star2-featured-publications"
+  - title: "Awards"
+    url: "/#medal_military-honor"
+  - title: "CV"
+    url: "/cv/"

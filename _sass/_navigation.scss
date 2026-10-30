@@ -433,3 +433,28 @@
     }
   }
 }
+/*
+   Custom header navigation
+   ========================================================================== */
+
+/* keep the site title on the left and push the menu links to the right */
+.greedy-nav .visible-links {
+  width: 100%;
+
+  > li:first-child {
+    width: 100%;
+  }
+}
+
+/* jump targets should not hide behind the sticky masthead */
+.anchor[id],
+h1[id],
+h2[id] {
+  scroll-margin-top: 4.5em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
