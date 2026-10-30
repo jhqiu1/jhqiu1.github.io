@@ -25,34 +25,31 @@
   var $hlinks = $nav.find('.hidden-links');
   var $title = $nav.find('.masthead__site-title');
 
-  var GAP = 16;
+  var GAP = 32;
 
   function update() {
-    // Start from a clean state: every link visible, no drop-down button.
+    // Start from a clean state: every link visible, drop-down closed.
     $hlinks.children().appendTo($vlinks);
-    $btn.addClass('hidden');
     $hlinks.addClass('hidden');
+    $btn.addClass('hidden');
 
-    var guard = $vlinks.children().length + 1;
+    var titleWidth = $title.outerWidth(true) || 0;
+    var available = $nav.width() - titleWidth - GAP;
 
-    while (guard-- > 0) {
-      var reserved = $title.outerWidth(true) + GAP;
+    if ($vlinks.width() <= available) {
+      $btn.attr('count', 0);
+      return;
+    }
 
-      if (!$btn.hasClass('hidden')) {
-        reserved += $btn.outerWidth(true) + GAP;
-      }
+    // The drop-down button only appears once something has to be hidden,
+    // and it eats into the space the links may use.
+    $btn.removeClass('hidden');
+    available -= $btn.outerWidth(true) || 0;
 
-      if ($vlinks.width() <= $nav.width() - reserved) {
-        break;
-      }
+    var guard = $vlinks.children().length;
 
-      if (!$vlinks.children().length) {
-        break;
-      }
-
+    while (guard-- > 0 && $vlinks.width() > available && $vlinks.children().length) {
       $vlinks.children().last().prependTo($hlinks);
-      $btn.removeClass('hidden');
-      $hlinks.removeClass('hidden');
     }
 
     $btn.attr('count', $hlinks.children().length);
